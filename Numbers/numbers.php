@@ -29,13 +29,9 @@
 //Next, declare a variable with any name you’d like and assign a floating point value to it. Use echo to print this new variable to the terminal.
 
 $my_int = 123;
-$int = 234;
-$my_float = 123.123;
-
 echo $my_int;
 
+echo "\n";
 
-echo "\n$int";
-
-
-echo "\n$my_float";
+$float = 123.1;
+echo $float;
